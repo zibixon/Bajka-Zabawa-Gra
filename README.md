@@ -1,5 +1,6 @@
 ## Important Information 
 > **Note:** **The following instructions are specific to Windows operating systems only.**
+
 This game creates a folder named **`Bajka Zabawa Gra`** in your `AppData/Roaming` directory.
 
  ### Data Storage
