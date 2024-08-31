@@ -1,17 +1,23 @@
-## Important Information 
-> **Note:** **The following instructions are specific to Windows operating systems only.**
+## Ważne informacje 
+> **Informacja:** **Te instrukcje są tylko dla maszyn z systemem Windows.**
+---
 
-This game creates a folder named **`Bajka Zabawa Gra`** in your `AppData/Roaming` directory.
+## Pomocne
+- Ta gra tworzy folder o nazwie **`Bajka Zabawa Gra`** w `AppData/Roaming`.
+- Działa tylko w trybie **borderless window** w rozdzielczości **1920x1080** (jeżeli zajdą zmiany, będą tu opisane).
+---
 
- ### Data Storage
-- The game saves data to `.json` files within this folder.
-- In pre_alpha_0.6.0, it creates only one unencrypted `.json` file with sound volume-related data.
-- In future versions it will create another encrypted `.json` file with game progress data.
+### Zapisywanie danych
+- Gra zapisuje dane w plikach `.json` w folderze **`Bajka Zabawa Gra`**.
+- W wersji pre_alpha_0.6.0 tworzy tylko jeden plik `.json` z niezaszyfrowanymi danymi dotyczącymi dźwięku w grze.
+- W przyszłych wersjach zostanie dodany jeszcze jeden plik `.json` z zaszyfrowanymi danymi dotyczącymi postępu w grze.
+---
 
-### Deleting Game Data 
-If you wish to completely remove all content related to this game from your machine: 
-1. Navigate to the following directory: - `\Users\YourUsername\AppData\Roaming\`
-2. **Delete** the folder named **`Bajka Zabawa Gra`**.
+### Usuwanie danych 
+Jeżeli chcesz kompletnie usunąć wszystkie zapisane dane tej gry: 
+1. Przejdź do: - `\Users\YourUsername\AppData\Roaming\`
+2. **Usuń** folder o nazwie **`Bajka Zabawa Gra`**.
+---
 
-> **Note:** **Removing this folder will permanently delete all game data**.
+> **Informacja:** **Usunięcie tego folderu spowoduje, że wszystkie dane, jakie gra zapisała, przestaną istnieć.**
 ---
