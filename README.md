@@ -15,7 +15,7 @@
 
 ### Usuwanie danych 
 Jeżeli chcesz kompletnie usunąć wszystkie zapisane dane tej gry: 
-1. Przejdź do: - `\Users\YourUsername\AppData\Roaming\`
+1. Przejdź do: - `\Users\TwojaNazwa\AppData\Roaming\`
 2. **Usuń** folder o nazwie **`Bajka Zabawa Gra`**.
 ---
 
