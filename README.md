@@ -3,7 +3,7 @@
 ---
 
 ## Pomocne
-- Ta gra tworzy folder o nazwie **`Bajka Zabawa Gra`** w `AppData/Roaming`.
+- Ta gra tworzy folder o nazwie **`Bajka Zabawa Gra`** w `\AppData\Roaming\LOVE\`.
 - Działa tylko w trybie **borderless window** w rozdzielczości **1920x1080** (jeżeli zajdą zmiany, będą tu opisane).
 ---
 
@@ -15,7 +15,7 @@
 
 ### Usuwanie danych 
 Jeżeli chcesz kompletnie usunąć wszystkie zapisane dane tej gry: 
-1. Przejdź do: - `\Użytkownicy\TwojaNazwa\AppData\Roaming\`
+1. Przejdź do: - `\Użytkownicy\TwojaNazwa\AppData\Roaming\LOVE\`
 2. **Usuń** folder o nazwie **`Bajka Zabawa Gra`**.
 ---
 
