@@ -4,7 +4,7 @@
 
 ## Pomocne
 - Ta gra tworzy folder o nazwie **`Bajka Zabawa Gra`** w `\AppData\Roaming\LOVE\`.
-- Działa tylko w trybie **borderless window** w rozdzielczości **1920x1080** (jeżeli zajdą zmiany, będą tu opisane).
+- Działa tylko w trybie **window** w rozdzielczości **1920x1080** (jeżeli zajdą zmiany, będą tu opisane).
 ---
 
 ### Zapisywanie danych
