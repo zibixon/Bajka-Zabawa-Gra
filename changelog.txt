@@ -1,0 +1,34 @@
+pre_alpha_0.6.1
+
+[ TECHNICZNE ]
+	
+	# Naprawiono błąd, który powodował, że opcje nie zapisywały się.
+	# Naprawiono resetowanie gry przyciskiem "Nowa Gra".
+	# Naprawiono inicjalizację obiektów przy włączaniu gry.
+	# Naprawiono animację gracza, która drgała w trakcie poruszania się.
+	# Naprawiono animację ręki, która drgała w trakcie poruszania się.
+	# Naprawiono rotację ręki by dopasować ją do skali postaci gracza.
+	# Dopasowano prostokąt kolizji do wysokości i szerokości postaci gracza i zrównano go z kołami
+	  by umożliwić poprawne odczytywanie kolizji gracza z elementami mapy.
+	# Naprawiono grawitację.
+	  
+	+ Dodano możliwość wyjścia z opcji klawiszem "escape".
+	+ Dodano kamerę, która śledzi gracza.
+	+ Dodano logikę, która nie pozwala kamerze przekroczyć granic mapy.
+	+ Dodano bibliotekę Simple-Tiled-Implementation do renderowania map.
+	+ Dodano logikę kolizji z elementami mapy.
+	
+	- Zmieniono sposób w jaki pozycja kursora jest przekazywana do podsystemu rotacji ręki trzymającej broń.
+	  Od teraz ta pozycja kursora jest pozycją względem mapy a nie ekranu.
+	- Zmniejszono elipsę kolizji dla pocisku gracza.
+	
+[ ZASOBY ]
+	
+	+ Dodano mapę testową.
+	
+	- Zmieniono tło w menu głównym.
+	- Zmieniono skalę postaci gracza.
+	
+[ INTERFEJS ]
+
+	- Usunięto literówkę z przycisku w menu głównym.
